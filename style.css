@@ -41,3 +41,11 @@ img{
     width: 600px;
     height: auto;
 }
+.image{
+    margin-left: 600px;
+    border: solid;
+    border-color: rgb(51, 172, 101);
+    padding: 5px 5px 5px 5px;
+    width: 400px;
+    height: auto;
+}
