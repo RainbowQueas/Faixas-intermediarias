@@ -32,6 +32,7 @@ img{
     width: 400px;
     height: auto;
     margin-left: 600px;
+    margin-right: 500px;
     border: solid rgb(45, 66, 48);
     border-radius: 200px;
 }
