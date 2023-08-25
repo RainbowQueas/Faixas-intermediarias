@@ -32,14 +32,15 @@ img{
     width: 400px;
     height: auto;
     margin-left: 600px;
-    border: 10px;
-    border-radius: 40px;
-    border-color: rgb(18, 141, 100);
+    border: solid rgb(45, 66, 48);
+    border-radius: 200px;
 }
 .mapa{
     margin-left: 500px;
     width: 600px;
     height: auto;
+    border-radius: 40px;
+    border: solid rgb(45, 66, 48);
 }
 .image{
     margin-left: 600px;
@@ -48,4 +49,5 @@ img{
     padding: 5px 5px 5px 5px;
     width: 400px;
     height: auto;
+    border-radius: 40px;
 }
