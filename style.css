@@ -2,9 +2,10 @@ body{
     background-color: rgb(51, 172, 101);
 }
 h1{
-    padding:0px 0px 10px 600px;
-    margin-right: 500px;
-    font-size: 30px;
+    padding:0px 0px 10px 550px;
+    margin-right: 400px;
+    font-size: 40px;
+    width: auto;
     font-family: courier new;
     color: rgb(255, 255, 255);
 }
@@ -17,7 +18,7 @@ h6{
 li{
     padding:0px 0px 10px 400px;
     margin-right: 500px;
-    font-size: 30px;
+    font-size: 40px;
     font-family: courier;
     font-weight: bold;
     color: rgb(156, 255, 197);
