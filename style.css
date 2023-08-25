@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(51, 172, 101);
+}
+h1{
+    padding:0px 0px 10px 600px;
+    font-size: 30px;
+    font-family: courier new;
+    color: rgb(255, 255, 255);
+}
+h6{
+    padding:0px 0px 10px 600px;
+    font-size: 17px;
+    font-family: courier new;
+    color: rgb(255, 255, 255);
+}
+li{
+    padding:0px 0px 10px 400px;
+    font-size: 30px;
+    font-family: courier;
+    font-weight: bold;
+    color: rgb(156, 255, 197);
+}
+p{
+    padding-left: 500px;
+    width: 650px;
+    font-size: 30px;
+    font-family: times new roman;
+    color: rgb(45, 66, 48);
+}
+img{
+    background-color: rgb(18, 141, 100);
+    width: 200px;
+    height: auto;
+    margin-left: 700px;
+    border: 10px;
+    border-radius: 40px;
+    border-color: rgb(18, 141, 100);
+}
+.mapa{
+    margin-left: 500px;
+    width: 600px;
+    height: auto;
+}
